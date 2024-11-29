@@ -67,3 +67,34 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+.exclamacion {
+
+}
+
+.resto {
+
+}
+
+.todo {
+  display: flex;
+  padding: 15px;
+  gap: 15px
+}
+
+.negreira {
+  display: flex;
+}
+
+.close-button {
+  margin-left: auto;
+}
+
+.header {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.text {
+  margin: 15px 0px;
+}
